@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="1,0">
+
+<sessionRoot dir="C:\Users\Administrator\AppData\Roaming\VanDyke\Config\Sessions">
+</sessionRoot>
+ 
+<channel name="AAA">
+	<server name="aaa">
+		<session name="1服">
+			<hostName>192.168.2.50</hostName>
+		</session>
+		
+		<session name="2服">
+			<hostName>192.168.2.51</hostName>
+		</session>
+		
+	</server>
+		
+	<server name="bbb">
+		<session name="1服">
+			<hostName>192.168.2.52</hostName>
+		</session>
+		
+		<session name="2服">
+			<hostName>192.168.2.53</hostName>
+		</session>
+		
+	</server>
+	
+</channel>
+
+<channel name="BBB">
+	<server name="bbb">
+		<session name="1服">
+			<hostName>192.168.2.50</hostName>
+		</session>
+		
+		<session name="2服">
+			<hostName>192.168.2.51</hostName>
+		</session>
+		
+	</server>
+		
+	<server name="ccc">
+		<session name="1服">
+			<hostName>192.168.2.52</hostName>
+		</session>
+		
+		<session name="2服">
+			<hostName>192.168.2.53</hostName>
+		</session>
+		
+	</server>
+	
+</channel>
+  
+</root>
